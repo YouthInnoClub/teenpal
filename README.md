@@ -50,3 +50,6 @@ help the users of this app cope with their depression.
 and inform you of the toll on your family. It will also tell you the accounts of people who have survived suicide attempts, and 
 how they later realized how terrible their decision was.
 
+Credit to the team of four very bright teenage:
+
+Nicholas Han, Michael Han, Tiger Peng, Kevin, Albert.
